@@ -24,13 +24,26 @@ frutas  = [...frutas, 'RAULZITOGOTI']
 console.log(frutas)
 
 frutas.splice(2, 0, 'morango')
+console.log(frutas)
 
+frutas.splice(3,1)
+console.log(frutas)
+frutas.shift()
+frutas.pop
+console.log(frutas)
 
+console.log(frutas(3))
+console.log(frutas.slice(0,4))
+console.log(frutas.slice(1))
+console.log(frutas.slice(-1))
+console.log(frutas)
+console.log(frutas.length)
 
-
-
-
-
+console.log(frutas)
+frutas.sort()
+console.log(frutas)
+frutas.reverse()
+console.log(frutas)
 
 
 
