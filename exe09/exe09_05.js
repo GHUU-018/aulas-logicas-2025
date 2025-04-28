@@ -16,7 +16,7 @@ function funcoes(nr1, nr2, fun){
     }
     else if(fun == '**'){
        resultado =(nr1**nr2)
-    }
+    } 
     return
 }
 
